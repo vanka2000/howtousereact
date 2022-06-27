@@ -3,7 +3,7 @@ import classes from './Input.module.scss';
 
 const Input = () =>{
     return(
-        <Input className={classes.Input}><p>Find pockemon</p></Input>
+        <input className={classes.Input}/>
     )
 }
 export default Input;

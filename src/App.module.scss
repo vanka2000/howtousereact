@@ -10,11 +10,26 @@
         width: 1170px;
         height: 134px;
         background:#806BFF;
+        margin-bottom: 30px;
         }
 
     .App__holder{
+        margin: auto;
         display: flex;
-width: 100%;
+width: 900px;
 height: 80px;
+margin-bottom: 20px;
     }  
+    .App__imagess{
+    
+        display: flex;
+        justify-content: space-between;
+        width: 900px;
+        height: 900px; 
+    }
+    .App__imagess1{
+
+            width: 80px;
+            height: 80px;
+    }
 }
